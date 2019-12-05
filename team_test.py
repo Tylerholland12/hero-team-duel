@@ -3,11 +3,7 @@ import io
 import sys
 import math
 import random
-from armor import Armor
-from hero import Hero
-from ability import Ability
-from weapon import Weapon
-from team import Team
+from hero import Hero, Armor, Ability, Weapon, Team
 
 # Helper Function
 
